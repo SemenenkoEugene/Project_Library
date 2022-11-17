@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lesson20.IntroToModel" />
+        <module name="Lesson16.SpringMVCAppJavaConfig" />
+        <module name="Lesson19.SpringRequestParametrs" />
+        <module name="SpringMVCApp1" />
+        <module name="Lesson24.SpringFormsValidation" />
+        <module name="Lesson25_Starter.SpringJDBC" />
+        <module name="Lesson17.SpringControllersIntro" />
+        <module name="Lesson23.CRUD_App3" />
+        <module name="Lesson22.CRUD_App2" />
+        <module name="Lesson27.SpringJdbcTemplate" />
+        <module name="Lesson21.CRUD_App1" />
+        <module name="Project_Library" />
+        <module name="Lesson26.SpringJDBC2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
